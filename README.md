@@ -277,8 +277,6 @@ Meu objetivo em um projeto analítico é conectar **contexto, dados e tecnologia
 
 <br><br>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Carolcrypto&show_icons=true&hide_border=true&bg_color=0D0907&title_color=C49A6C&icon_color=8B5E3C&text_color=E6D3B3"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carolcrypto&layout=compact&hide_border=true&bg_color=0D0907&title_color=C49A6C&text_color=E6D3B3"/>
 
 <br><br>
@@ -301,11 +299,6 @@ Meu objetivo em um projeto analítico é conectar **contexto, dados e tecnologia
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/GITHUB%20TROPHIES-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
-
-<br><br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=Carolcrypto&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%"/>
 
@@ -313,17 +306,6 @@ Meu objetivo em um projeto analítico é conectar **contexto, dados e tecnologia
 
 ---
 
-<div align="center">
-
-<img src="https://img.shields.io/badge/CONTRIBUTION%20SNAKE-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
-
-<br><br>
-
-<img src="https://raw.githubusercontent.com/Carolcrypto/Carolcrypto/output/github-contribution-grid-snake.svg" width="100%" alt="GitHub contribution snake">
-
-</div>
-
----
 
 <div align="center">
 
