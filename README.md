@@ -4,18 +4,14 @@
 
 <br>
 
+### Dados que contam histórias. Análises que apoiam decisões. Tecnologia que transforma ideias em soluções.
+
+<br>
+
 <img src="https://img.shields.io/badge/DATA%20ANALYTICS-5A321F?style=for-the-badge&logoColor=E6D3B3">
 <img src="https://img.shields.io/badge/BUSINESS%20ANALYTICS-8B5E3C?style=for-the-badge&logoColor=F5EFE6">
 <img src="https://img.shields.io/badge/DIGITAL%20ANALYTICS-C49A6C?style=for-the-badge&logoColor=0D0907">
 <img src="https://img.shields.io/badge/TECHNOLOGY-5A321F?style=for-the-badge&logoColor=E6D3B3">
-
-</div>
-
-<br>
-
-<div align="center">
-
-**Dados que contam histórias. Análises que apoiam decisões. Tecnologia que transforma ideias em soluções.**
 
 </div>
 
@@ -29,61 +25,17 @@
 
 <br>
 
-<table>
-<tr>
-<td width="58%" valign="top">
+Sou **Carolina Oliveira Fagundes**, profissional com atuação na interseção entre **Data Analytics, Business Analytics, Digital Analytics e Tecnologia**.
 
-### Carolina Oliveira Fagundes
+Meu trabalho combina análise de dados, visualização, indicadores, desenvolvimento de aplicações e resolução de problemas de negócio.
 
-Sou uma profissional orientada a dados, com atuação na interseção entre **Data Analytics, Business Analytics, Digital Analytics e Tecnologia**.
+Tenho interesse em construir soluções que vão além da apresentação de números: gosto de entender o **problema**, explorar os **dados**, identificar **padrões**, gerar **insights** e transformar descobertas em **ações**.
 
-Meu trabalho combina análise de dados, visualização, indicadores, desenvolvimento de aplicações, automação e resolução de problemas de negócio.
-
-Gosto de transformar perguntas de negócio em análises estruturadas, identificar padrões e transformar números em informações que possam apoiar decisões.
-
-Minha forma de trabalhar conecta:
-
-**problema → dados → análise → insight → ação**
-
-</td>
-
-<td width="42%" align="center" valign="middle">
-
-<img src="https://img.shields.io/badge/DATA-5A321F?style=for-the-badge&logoColor=E6D3B3">
-
-<br><br>
-
-↓
-
-<br>
-
-<img src="https://img.shields.io/badge/ANALYSIS-8B5E3C?style=for-the-badge&logoColor=F5EFE6">
-
-<br><br>
-
-↓
-
-<br>
-
-<img src="https://img.shields.io/badge/INSIGHT-C49A6C?style=for-the-badge&logoColor=0D0907">
-
-<br><br>
-
-↓
-
-<br>
-
-<img src="https://img.shields.io/badge/ACTION-8B5E3C?style=for-the-badge&logoColor=F5EFE6">
-
-</td>
-</tr>
-</table>
-
-<br>
+Minha abordagem pode ser resumida em:
 
 <div align="center">
 
-<sub>DATA → ANALYSIS → INSIGHT → ACTION → BUSINESS IMPACT</sub>
+**DATA → ANALYSIS → INSIGHT → ACTION → BUSINESS IMPACT**
 
 </div>
 
@@ -97,135 +49,51 @@ Minha forma de trabalhar conecta:
 
 <br>
 
-<table>
-<tr>
+| 📊 **DATA**             | 📈 **ANALYTICS**       | 💻 **TECHNOLOGY** |
+| :---------------------- | :--------------------- | :---------------- |
+| Tratamento e exploração | KPIs e indicadores     | Python            |
+| ETL e transformação     | Performance comercial  | C# / .NET         |
+| Modelagem               | Digital Analytics      | APIs              |
+| SQL / NoSQL             | Business Intelligence  | React             |
+| Qualidade de dados      | Storytelling com dados | Automação         |
 
-<td align="center" width="33%">
-
-### 📊 DATA
-
-Tratamento e exploração de dados
-
-<br>
-
-Modelagem
-
-<br>
-
-ETL
-
-<br>
-
-SQL & NoSQL
-
-<br>
-
-Qualidade dos dados
-
-</td>
-
-<td align="center" width="33%">
-
-### 📈 ANALYTICS
-
-KPIs e indicadores
-
-<br>
-
-Performance comercial
-
-<br>
-
-Digital Analytics
-
-<br>
-
-Business Intelligence
-
-<br>
-
-Storytelling com dados
-
-</td>
-
-<td align="center" width="33%">
-
-### 💻 TECHNOLOGY
-
-Python
-
-<br>
-
-C# / .NET
-
-<br>
-
-APIs
-
-<br>
-
-React
-
-<br>
-
-Automação
-
-<br>
-
-Aplicações analíticas
-
-</td>
-
-</tr>
-</table>
+Minha atuação busca conectar **visão analítica, contexto de negócio e capacidade técnica** para construir soluções completas.
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/FEATURED%20PROJECTS-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
+<img src="https://img.shields.io/badge/FEATURED%20CASES-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
 
 </div>
 
 <br>
 
-## ☕ MRV&Co — Planning & Business Analytics
+# ☕ MRV&Co
 
 <div align="center">
 
-**DATA • BUSINESS • PERFORMANCE**
+**PLANNING • BUSINESS ANALYTICS • COMMERCIAL PERFORMANCE**
 
 </div>
 
-Projeto de análise de dados desenvolvido com **Python e Streamlit**, com foco em transformar informações comerciais em indicadores, diagnósticos, visualizações e insights para apoio à tomada de decisão.
+Projeto desenvolvido para análise de **performance comercial**, utilizando dados para construir uma visão estruturada sobre indicadores, produtividade, conversão e oportunidades de negócio.
 
-### O que foi analisado
+A solução utiliza **Python e Streamlit** para transformar dados em análises, visualizações e insights executivos.
 
-* Performance comercial por cidade
-* VSO — Vendas Sob Oferta
-* Volume de leads
-* Documentação enviada
-* CPF analisado e aprovado
-* Unidades vendidas
-* Estoque
-* Empreendimentos lançados
-* Perfil e produtividade da equipe comercial
-* Turnover de corretores e gerentes
-* Investimento em marketing
-* Comparação de performance entre cidades
-* Simulação de cenários
+### Principais frentes
 
-### Principais achados
+* Análise de performance comercial;
+* Indicadores de vendas;
+* Funil de conversão;
+* Produtividade da equipe;
+* Análise por região;
+* Identificação de benchmarks;
+* Avaliação de oportunidades;
+* Visualização de indicadores;
+* Simulação de cenários.
 
-| Indicador                    |            Resultado |
-| :--------------------------- | -------------------: |
-| Registros analisados         |              **324** |
-| Total de leads               |          **258.087** |
-| VSO médio                    |            **0,11%** |
-| Melhor desempenho            | **São Luís — 0,53%** |
-| Maior oportunidade           |      **Poá — 0,00%** |
-| Produtividade média          |            **0,23%** |
-| Turnover médio de corretores |            **0,08%** |
+O objetivo principal foi transformar uma base operacional em uma visão mais clara de **performance, oportunidades e tomada de decisão**.
 
 <div align="center">
 
@@ -234,46 +102,47 @@ Projeto de análise de dados desenvolvido com **Python e Streamlit**, com foco e
 <img src="https://img.shields.io/badge/NumPy-5A321F?style=flat-square&logo=numpy&logoColor=E6D3B3">
 <img src="https://img.shields.io/badge/Plotly-8B5E3C?style=flat-square&logo=plotly&logoColor=F5EFE6">
 <img src="https://img.shields.io/badge/Streamlit-C49A6C?style=flat-square&logo=streamlit&logoColor=0D0907">
-<img src="https://img.shields.io/badge/Scikit--learn-5A321F?style=flat-square&logo=scikitlearn&logoColor=E6D3B3">
-<img src="https://img.shields.io/badge/SciPy-8B5E3C?style=flat-square&logo=scipy&logoColor=F5EFE6">
 
 <br><br>
 
 <a href="https://github.com/Carolcrypto/case-MRV">
-<img src="https://img.shields.io/badge/VIEW%20REPOSITORY-5A321F?style=for-the-badge&logo=github&logoColor=E6D3B3">
+<img src="https://img.shields.io/badge/REPOSITORY-5A321F?style=for-the-badge&logo=github&logoColor=E6D3B3">
 </a>
 
 <a href="https://case-mrvco.streamlit.app">
-<img src="https://img.shields.io/badge/LIVE%20DEMO-8B5E3C?style=for-the-badge&logo=streamlit&logoColor=F5EFE6">
+<img src="https://img.shields.io/badge/LIVE%20PROJECT-8B5E3C?style=for-the-badge&logo=streamlit&logoColor=F5EFE6">
 </a>
 
 </div>
 
 ---
 
-## 🏦 Bank Churn Analysis
+# 🏦 Inter — Data Analytics & Churn
 
 <div align="center">
 
-**CUSTOMER BEHAVIOR • CHURN • RETENTION**
+**CUSTOMER ANALYTICS • CHURN • BEHAVIOR • RETENTION**
 
 </div>
 
-Projeto de **Data Analytics** voltado à identificação de padrões associados ao cancelamento de clientes em um contexto bancário.
+Projeto de **Data Analytics** voltado à análise de comportamento e retenção de clientes em um contexto bancário.
 
-A análise explora características dos clientes, produtos utilizados, canais de aquisição e comportamento transacional para identificar padrões e possíveis sinais de risco.
+A proposta foi explorar os dados para compreender **quem são os clientes que deixam a instituição, quais comportamentos estão associados ao churn e quais características podem indicar oportunidades de retenção**.
 
-### Principais análises
+### Principais frentes
 
-* Perfil de clientes que realizaram churn
-* Comparação entre clientes ativos e cancelados
-* Produtos consumidos
-* Comportamento transacional
-* Canais de aquisição
-* Segmentação de clientes
-* Identificação de padrões
-* Análise temporal
-* Possíveis sinais de risco de churn
+* Perfil dos clientes;
+* Análise de churn;
+* Comportamento transacional;
+* Produtos utilizados;
+* Canais de aquisição;
+* Segmentação de clientes;
+* Comparação entre perfis;
+* Identificação de padrões;
+* Análise de comportamento;
+* Geração de insights para retenção.
+
+O projeto busca transformar dados comportamentais em uma visão mais estratégica sobre **clientes, relacionamento e oportunidades de retenção**.
 
 <div align="center">
 
@@ -287,113 +156,72 @@ A análise explora características dos clientes, produtos utilizados, canais de
 
 ---
 
-## 📊 Análise de Mercado de Trabalho com Machine Learning
-
 <div align="center">
 
-**DATA • MACHINE LEARNING • SOCIOECONOMIC ANALYSIS**
+<img src="https://img.shields.io/badge/OTHER%20PROJECTS-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
 
 </div>
 
-Projeto de análise socioeconômica utilizando técnicas de **Machine Learning** para explorar padrões e construir análises relacionadas ao mercado de trabalho.
+<br>
 
-<div align="center">
+### 📊 Mercado de Trabalho + Machine Learning
 
-<img src="https://img.shields.io/badge/Python-5A321F?style=flat-square&logo=python&logoColor=E6D3B3">
-<img src="https://img.shields.io/badge/Jupyter-8B5E3C?style=flat-square&logo=jupyter&logoColor=F5EFE6">
-<img src="https://img.shields.io/badge/Machine%20Learning-C49A6C?style=flat-square&logoColor=0D0907">
-<img src="https://img.shields.io/badge/Scikit--learn-5A321F?style=flat-square&logo=scikitlearn&logoColor=E6D3B3">
+Análise socioeconômica utilizando **Machine Learning** para explorar padrões e construir previsões relacionadas ao mercado de trabalho.
 
-<br><br>
-
-<a href="https://github.com/Carolcrypto/analise-mercado-trabalho-ml">
-<img src="https://img.shields.io/badge/PART%201-5A321F?style=for-the-badge&logo=github&logoColor=E6D3B3">
-</a>
-
-<a href="https://github.com/Carolcrypto/analise-mercado-trabalho-ml-parte-2">
-<img src="https://img.shields.io/badge/PART%202-8B5E3C?style=for-the-badge&logo=github&logoColor=F5EFE6">
-</a>
-
-</div>
+`Python` `Jupyter Notebook` `Machine Learning` `Scikit-learn`
 
 ---
 
-## 📋 Planejamento Comercial
+### 📋 Planejamento Comercial
 
-<div align="center">
+Case técnico voltado à análise e planejamento comercial, utilizando dados para estruturar uma visão de performance e planejamento.
 
-**BUSINESS ANALYTICS • PLANNING • PERFORMANCE**
-
-</div>
-
-Case técnico desenvolvido para análise e planejamento comercial utilizando a metodologia **50/30/20**, explorando dados para estruturar uma visão de performance e planejamento.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-5A321F?style=flat-square&logo=python&logoColor=E6D3B3">
-<img src="https://img.shields.io/badge/Streamlit-8B5E3C?style=flat-square&logo=streamlit&logoColor=F5EFE6">
-
-<br><br>
-
-<a href="https://github.com/Carolcrypto/case-leozinha-planejamento-comercial">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-C49A6C?style=for-the-badge&logo=github&logoColor=0D0907">
-</a>
-
-</div>
+`Python` `Streamlit`
 
 ---
 
-## 📈 Teste Técnico — Grupo Central
+### 📈 Teste Técnico — Grupo Central
 
-<div align="center">
+Projeto desenvolvido para um desafio técnico de **Analista de Dados / BI**, explorando análise, visualização e geração de insights.
 
-**DATA ANALYTICS • BI • BUSINESS INSIGHTS**
-
-</div>
-
-Projeto desenvolvido como solução para um desafio técnico de **Analista de Dados / BI**, explorando análise, visualização e geração de insights.
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/Python-5A321F?style=flat-square&logo=python&logoColor=E6D3B3">
-
-<br><br>
-
-<a href="https://github.com/Carolcrypto/teste-tecnico-grupo-central">
-<img src="https://img.shields.io/badge/VIEW%20PROJECT-8B5E3C?style=for-the-badge&logo=github&logoColor=F5EFE6">
-</a>
-
-</div>
+`Python`
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ANALYTICS%20FLOW-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
+<img src="https://img.shields.io/badge/ANALYTICS%20FLOW-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
 
 <br><br>
 
 ```text
-                 DATA
-                   │
-                   ▼
-              TRANSFORM
-                   │
-                   ▼
-                ANALYZE
-                   │
-                   ▼
-              VISUALIZE
-                   │
-                   ▼
-                INSIGHT
-                   │
-                   ▼
-                ACTION
-                   │
-                   ▼
-            BUSINESS IMPACT
+                         BUSINESS QUESTION
+                                │
+                                ▼
+                              DATA
+                                │
+                                ▼
+                         EXPLORATION
+                                │
+                                ▼
+                            ANALYSIS
+                                │
+                                ▼
+                         VISUALIZATION
+                                │
+                                ▼
+                            INSIGHT
+                                │
+                                ▼
+                            ACTION
+                                │
+                                ▼
+                       BUSINESS IMPACT
 ```
+
+<br>
+
+**DATA → INSIGHT → DECISION → IMPACT**
 
 </div>
 
@@ -458,108 +286,37 @@ Projeto desenvolvido como solução para um desafio técnico de **Analista de Da
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CORE%20COMPETENCIES-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
+<img src="https://img.shields.io/badge/CORE%20COMPETENCIES-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
 
 </div>
 
 <br>
 
-<table>
-<tr>
-<th>Área</th>
-<th>Aplicação</th>
-</tr>
-
-<tr>
-<td><strong>Data Analytics</strong></td>
-<td>Exploração, tratamento, indicadores e análise de performance</td>
-</tr>
-
-<tr>
-<td><strong>Business Analytics</strong></td>
-<td>Transformação de dados em insights para negócio</td>
-</tr>
-
-<tr>
-<td><strong>Digital Analytics</strong></td>
-<td>Métricas, comportamento, funil e performance</td>
-</tr>
-
-<tr>
-<td><strong>Business Intelligence</strong></td>
-<td>Dashboards, visualização e storytelling</td>
-</tr>
-
-<tr>
-<td><strong>Python</strong></td>
-<td>Análise, automação, tratamento e desenvolvimento de aplicações</td>
-</tr>
-
-<tr>
-<td><strong>Machine Learning</strong></td>
-<td>Modelos analíticos e identificação de padrões</td>
-</tr>
-
-<tr>
-<td><strong>SQL & Databases</strong></td>
-<td>Consulta, organização e modelagem de dados</td>
-</tr>
-
-<tr>
-<td><strong>Full Stack</strong></td>
-<td>Backend, frontend, APIs e integração</td>
-</tr>
-
-<tr>
-<td><strong>Automation</strong></td>
-<td>Automação de processos e extração de dados</td>
-</tr>
-
-</table>
+| Área                      | Aplicação                                                      |
+| :------------------------ | :------------------------------------------------------------- |
+| **Data Analytics**        | Exploração, tratamento, indicadores e análise de performance   |
+| **Business Analytics**    | Transformação de dados em insights para negócio                |
+| **Digital Analytics**     | Métricas, comportamento, funil e performance                   |
+| **Business Intelligence** | Dashboards, visualização e storytelling                        |
+| **Python**                | Análise, automação, tratamento e desenvolvimento de aplicações |
+| **Machine Learning**      | Modelos analíticos e identificação de padrões                  |
+| **SQL & Databases**       | Consulta, organização e modelagem de dados                     |
+| **Full Stack**            | Backend, frontend, APIs e integração                           |
+| **Automation**            | Automação de processos e extração de dados                     |
 
 ---
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/PROFESSIONAL%20APPROACH-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
+<img src="https://img.shields.io/badge/PROFESSIONAL%20MINDSET-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
 
 <br><br>
 
 ### Não basta visualizar o dado. É preciso entender o que ele significa.
 
-</div>
-
 <br>
 
-Minha abordagem profissional parte do contexto do problema e busca construir uma ponte entre **dados, análise e decisão**.
-
-<div align="center">
-
-**BUSINESS QUESTION**
-
-↓
-
-**DATA**
-
-↓
-
-**EXPLORATION**
-
-↓
-
-**ANALYSIS**
-
-↓
-
-**INSIGHT**
-
-↓
-
-**RECOMMENDATION**
-
-↓
-
-**BUSINESS ACTION**
+Meu objetivo em um projeto analítico é conectar **contexto, dados e tecnologia** para transformar informações em conclusões que possam ser utilizadas na prática.
 
 </div>
 
@@ -567,7 +324,7 @@ Minha abordagem profissional parte do contexto do problema e busca construir uma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
+<img src="https://img.shields.io/badge/GITHUB%20ANALYTICS-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
 
 <br><br>
 
@@ -585,7 +342,7 @@ Minha abordagem profissional parte do contexto do problema e busca construir uma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTRIBUTION%20FLOW-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
+<img src="https://img.shields.io/badge/ACTIVITY-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
 
 <br><br>
 
@@ -597,7 +354,7 @@ Minha abordagem profissional parte do contexto do problema e busca construir uma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GITHUB%20TROPHIES-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
+<img src="https://img.shields.io/badge/GITHUB%20TROPHIES-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
 
 <br><br>
 
@@ -609,7 +366,7 @@ Minha abordagem profissional parte do contexto do problema e busca construir uma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTRIBUTION%20SNAKE-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
+<img src="https://img.shields.io/badge/CONTRIBUTION%20SNAKE-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
 
 <br><br>
 
@@ -621,103 +378,31 @@ Minha abordagem profissional parte do contexto do problema e busca construir uma
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
+<img src="https://img.shields.io/badge/CONTINUOUS%20LEARNING-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
 
 <br><br>
 
-<table>
-<tr>
+**DATA**
 
-<td align="center" width="25%">
-
-<strong>DATA</strong>
+Business Analytics · Digital Analytics · Statistical Analysis · Predictive Analytics
 
 <br><br>
 
-Business Analytics
+**ENGINEERING**
 
-<br>
-
-Digital Analytics
-
-<br>
-
-Statistical Analysis
-
-<br>
-
-Predictive Analytics
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>ENGINEERING</strong>
+ETL · Data Pipelines · Data Architecture · Data Platforms
 
 <br><br>
 
-ETL
+**DEVELOPMENT**
 
-<br>
-
-Data Pipelines
-
-<br>
-
-Data Architecture
-
-<br>
-
-Data Platforms
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>DEVELOPMENT</strong>
+Python · .NET / C# · APIs · Full Stack Solutions
 
 <br><br>
 
-Python
+**BUSINESS**
 
-<br>
-
-.NET / C#
-
-<br>
-
-APIs
-
-<br>
-
-Full Stack
-
-</td>
-
-<td align="center" width="25%">
-
-<strong>BUSINESS</strong>
-
-<br><br>
-
-KPIs
-
-<br>
-
-Performance
-
-<br>
-
-Strategic Analysis
-
-<br>
-
-Data-Driven Decisions
-
-</td>
-
-</tr>
-</table>
+Strategic Analysis · Performance · KPIs · Data-Driven Decisions
 
 </div>
 
@@ -725,7 +410,7 @@ Data-Driven Decisions
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/LET'S%20CONNECT-8B5E3C?style=for-the-badge&labelColor=0D0907&color=8B5E3C">
+<img src="https://img.shields.io/badge/LET'S%20CONNECT-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
 
 <br><br>
 
@@ -741,58 +426,7 @@ Data-Driven Decisions
 
 <div align="center">
 
-<svg width="100%" height="100" viewBox="0 0 1000 100" xmlns="http://www.w3.org/2000/svg">
-
-<defs>
-
-<linearGradient id="footer" x1="0%" y1="0%" x2="100%" y2="0%">
-
-<stop offset="0%" stop-color="#3A2115"/>
-<stop offset="50%" stop-color="#C49A6C"/>
-<stop offset="100%" stop-color="#3A2115"/>
-
-</linearGradient>
-
-</defs>
-
-<path
-d="M0 55 C180 15 320 85 500 45 S820 15 1000 55"
-fill="none"
-stroke="url(#footer)"
-stroke-width="2"
-/>
-
-<circle cx="500" cy="45" r="3" fill="#C49A6C"/>
-
-<text
-x="500"
-y="30"
-text-anchor="middle"
-fill="#E6D3B3"
-font-family="Arial, Helvetica, sans-serif"
-font-size="12"
-letter-spacing="3"
-
->
-
-DATA • ANALYSIS • INSIGHT • ACTION </text>
-
-<text
-x="500"
-y="82"
-text-anchor="middle"
-fill="#8B5E3C"
-font-family="Arial, Helvetica, sans-serif"
-font-size="10"
-letter-spacing="2"
-
->
-
-CAROLINA FAGUNDES </text>
-
-</svg>
-
-<br>
+### Dados que contam histórias. Análises que apoiam decisões.
 
 <sub>Transformando complexidade em clareza através de dados.</sub>
 
@@ -801,5 +435,6 @@ CAROLINA FAGUNDES </text>
 <img src="https://img.shields.io/badge/STATUS-OPEN%20TO%20OPPORTUNITIES-5A321F?style=flat-square">
 
 </div>
+
 
 
