@@ -190,17 +190,6 @@ Projeto desenvolvido para um desafio técnico de **Analista de Dados / BI**, exp
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/ANALYTICS%20FLOW-5A321F?style=for-the-badge&labelColor=0D0907&color=5A321F">
-
-
-**DATA → INSIGHT → DECISION → IMPACT**
-
-</div>
-
----
-
-<div align="center">
-
 <img src="https://img.shields.io/badge/TECH%20STACK-C49A6C?style=for-the-badge&labelColor=0D0907&color=C49A6C">
 
 </div>
@@ -253,6 +242,8 @@ Projeto desenvolvido para um desafio técnico de **Analista de Dados / BI**, exp
 <img src="https://skillicons.dev/icons?i=git,github,vscode,jupyter,figma" />
 
 </div>
+
+---
 
 
 <div align="center">
