@@ -4,8 +4,6 @@
 
 <br><br>
 
-# Carolina Oliveira Fagundes
-
 ### `DATA ANALYTICS` · `BUSINESS ANALYTICS` · `DIGITAL ANALYTICS` · `TECHNOLOGY`
 
 <br>
